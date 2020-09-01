@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577387564 source:e:\p\!electronics\fake-wifi-router\firmware\src\app.cpp
+	<avr/io.h>
+	<avr/interrupt.h>
+	<avr/wdt.h>
+	<avr/sleep.h>
+	<!cpp/Random/XorShift32.h>
+	<!cpp/bitManipulations.h>
+	<!cpp/common.h>
+	"common.h"
+
+1574677918 e:\p\!electronics\fake-wifi-router\firmware\src\common.h
+
